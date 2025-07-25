@@ -5,7 +5,7 @@ instance_tags   = {
 }
 sg_name         = "Demo_sg"
 sg_description  = "this is for demo file"
-vpc_id          =
+vpc_id          = "vpc-05bdcc8880aab85ab"
 sg_tags         = {
   Name  = "demo_sg"
 }
